@@ -5,4 +5,8 @@ html {
   color : #5076ce;
   font: 1.5em "Fira Sans", sans-serif;
   border : 5px #2b2d33;
+  background-color: #52555e;
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: column;
      }
