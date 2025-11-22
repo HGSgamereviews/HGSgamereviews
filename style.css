@@ -11,6 +11,7 @@ menu {
 a {
   font: 1.5em "Fira Sans", sans-serif;
   color : #5076ce;
+  background-color: #1f2023;
   }
 .Title {
   color : #5076ce;
@@ -22,7 +23,6 @@ a {
   flex-direction: column;
        }
 .List {
-  background-color: #1f2023;
   padding: 1em;
   border: solid thin black; 
       }
