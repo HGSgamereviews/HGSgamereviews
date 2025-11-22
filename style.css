@@ -8,11 +8,6 @@ menu {
   margin-bottom: 0;
   gap: 1em;
      }
-button {
-  background-colour : #27282b;
-  color : black;
-       }
-
 .Title {
   color : #5076ce;
   font: 1.5em "Fira Sans", sans-serif;
@@ -27,3 +22,13 @@ button {
   padding: 1em;
   border: solid thin black; 
       }
+.Minecraft {
+  background-colour : #27282b;
+  color : white;
+  
+          }
+.Movies {
+  background-colour : #27282b;
+  color : white;
+  
+          }
