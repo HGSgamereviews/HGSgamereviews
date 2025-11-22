@@ -6,12 +6,13 @@ menu {
   display: flex;
   padding: 0;
   margin-bottom: 0;
-  gap: 1em;
+  gap: 1.5em;
+  background-color: #1f2023;
      } 
 a {
   font: 1.5em "Fira Sans", sans-serif;
   color : #5076ce;
-  background-color : black;
+  background-color: #1f2023;
   }
 .Title {
   color : #5076ce;
